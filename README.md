@@ -4,6 +4,15 @@ This is a simple clinic management backend system built with Golang, Gin, and Po
 
 ---
 
+# Postman Collection:- 
+
+AUTH- https://xyz555-3569.postman.co/workspace/Markable_assignment~a657908a-b648-4f48-bff3-052df18d7955/collection/36729152-8790de4c-3874-4464-929d-7f04ca0478f8?action=share&creator=36729152
+
+DOCTOR-  https://xyz555-3569.postman.co/workspace/Markable_assignment~a657908a-b648-4f48-bff3-052df18d7955/collection/36729152-e8ac09cf-6b0a-417b-b3cb-e9e7bd08a984?action=share&creator=36729152
+
+Receptionist:- https://xyz555-3569.postman.co/workspace/Markable_assignment~a657908a-b648-4f48-bff3-052df18d7955/collection/36729152-00d7964d-d128-4adb-81a5-cbfc9d11d831?action=share&creator=36729152
+
+
 ## 🚀 Features
 
 - 🧾 User Signup & Login (with role: `receptionist` or `doctor`)
